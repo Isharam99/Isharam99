@@ -1,15 +1,20 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/Isharam99/isharam99/blob/main/gif.gif"></p>
-
  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=It's+pleasure+to+see+you...!">
+ <p align="center">
+
+  <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I+m+Ishara+Madushan;I+Love+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developing;UI+UX;QA+Engineering;Leaderships;Loves+To+Build+Projects;A+Problem+Solver;">
+
+</p>
 
 ## Who am I?
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
+    user = 'Ishara Madushan'
+	current_edu = "SLIIT(Undergraduate)"
+    currently_learning = "React Native"
     fun_fact = "I hate Chillies"
 	hobbies = [
 				'Music',
@@ -19,10 +24,10 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Balangoda Srilanka()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		BecomeProjectManager()
 		FinishMyProjects()
 	
  ```
@@ -91,7 +96,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ishara-madushan-3919ab217"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
   <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -105,5 +110,5 @@
 </p>
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+[Ishara-Madushan](https://github.com/Isharam99)
+Last Edited on - 01/8/2024
