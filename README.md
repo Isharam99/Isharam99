@@ -31,8 +31,10 @@
 		FinishMyProjects()
 	
  ```
+- 🌱 I’m currently learning **React-native, ORDB, Nest.js, Next.js**
+- 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
+- 💬 Ask me about **Javascript, MERN stack, Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
 
- 
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
