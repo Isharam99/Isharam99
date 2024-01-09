@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I+m+Ishara+Madushan;I+Love+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developing;UI+UX;QA+Engineering;Leaderships;Loves+To+Build+Projects;A+Problem+Solver;">
 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isharam99&label=Profile%20views&color=0e75b6&style=flat" alt="Isharam99" /> </p>
+
 
 ## Who am I?
 
@@ -38,12 +40,12 @@
 
 ## Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isharam99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username==isharam99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isharam99&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isharam99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isharam99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isharam99&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isharam99&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username==Isharam99&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isharam99&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isharam99&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isharam99&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isharam99&theme=github_dark)
 
 
 
