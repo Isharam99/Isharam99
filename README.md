@@ -40,7 +40,7 @@
 
 ## Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isharam99&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isharam99&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username==Isharam99&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isharam99&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isharam99&theme=github_dark)
