@@ -33,7 +33,7 @@
 		FinishMyProjects()
 	
  ```
-- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1iCBXQjRQA_Haq4i8wBCuUbTakZ3G5Ixt/view?usp=sharing)
+- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1Idmpi7ijbmGD5c46aNcfygb00cZ-xg6K/view?usp=sharing)
 - 🌱 I’m currently learning **React-native, ORDB, Nest.js, Next.js**
 - 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
 - 💬 Ask me about **Javascript, MERN stack, Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
